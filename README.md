@@ -20,3 +20,16 @@ The system was developed and tested using MMOCR, a comprehensive toolbox for tex
 
 If you use this work in your research, please cite the paper:
 
+```
+@INPROCEEDINGS{10427969,
+  author={Baig, Mirza Nihal and Owishi, Nowshin Alam and Rahman, Mohammad Shahidur},
+  booktitle={2023 6th International Conference on Electrical Information and Communication Technology (EICT)}, 
+  title={A SAR-Based Approach to Recognize Text in Syloti Nagri}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={Adaptation models;Text recognition;Shape;Optical character recognition;Writing;Robustness;Task analysis;SAR;OCR;Syloti Nagri;Sylheti Nagri;Sylheti Nagari;Text recognition},
+  doi={10.1109/EICT61409.2023.10427969}}
+
+```
